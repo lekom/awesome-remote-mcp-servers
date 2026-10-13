@@ -463,7 +463,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Capability URL + TTL context bridge; host-readable while live; anyone with the link; not for secrets.
 - [Patch MCP](https://www.patchmcp.com) `https://www.patchmcp.com/mcp`
   [![Patch MCP connector](https://glama.ai/mcp/connectors/com.patchmcp/patch/badges/score.svg)](https://glama.ai/mcp/connectors/com.patchmcp/patch)
-  🔐 - Make AI phone calls from your verified number and retrieve answers, transcripts and recordings.
+  🔓 - Discover tools publicly; make AI calls from your verified number with OAuth, then get transcripts and recordings.
 - [Piloxa](https://piloxa.com) `https://piloxa.com/mcp`
   [![Piloxa MCP connector](https://glama.ai/mcp/connectors/com.piloxa/piloxa-certified-mail/badges/score.svg)](https://glama.ai/mcp/connectors/com.piloxa/piloxa-certified-mail)
   🔓 - Send a letter as printed USPS Certified Mail with tracking, from $13.18.
